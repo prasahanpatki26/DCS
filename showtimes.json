@@ -1,0 +1,21 @@
+{
+    "showtimes": [
+    {
+    "movie-name": "Elephant X", "screen-no": "1",
+    "Start-time": "10:00"
+    },
+    {
+    "movie-name": "Sherlock", "screen-no": "1",
+    "Start-time": "13:30"
+    },
+    {
+    "movie-name": "In The Woods of Romania", "screen-no": "2",
+    "Start-time": "12:15"
+    },
+    {
+    "movie-name": "Antman",
+    "screen-no": "2",
+    "Start-time": "17:50"
+    }
+    ]
+    }

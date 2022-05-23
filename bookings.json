@@ -1,0 +1,29 @@
+{
+    "booking": [
+    {
+    "movie-name": "Elephant X", "user-name": "A",
+    "screen": 1,
+    "Start-time": "10:00"
+    },
+    {
+    "movie-name": "Elephant X", "user-name": "B",
+    "screen": 1,
+    "Start-time": "10:00"
+    },
+    {
+    "movie-name": "Sherlock", "user-name": "C", "screen": 1,
+    "Start-time": "13:30"
+    },
+    {
+    "movie-name": "Antman",
+    "user-name": "D", "screen": 2,
+    "Start-time": "17:50"
+    },
+    
+    {
+    "movie-name": "MNOP",
+    "user-name": "E", "screen": 2,
+    "Start-time": "9:30"
+    }
+    ]
+    }
