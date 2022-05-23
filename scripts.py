@@ -33,10 +33,4 @@ def disp_showtimes():
 if __name__ == '__main__':
 	app.run(debug=True)
 
-
-
-@app.route('/prajwal')
-def disp_prajwal():
-    data_prajwal = pd.read_json('prajwal.json')
-    data_prajwal = data_prajwal.values.tolist();
-    return jsonify(data_prajwal)    
+   
